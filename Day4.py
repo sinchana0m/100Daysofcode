@@ -1,0 +1,15 @@
+#day4 
+#build a custom story
+print("Welcome to my story")
+name=input("What is your name? : ")
+like=input("what do you like the most?: ")
+dislike=input("what do you dislike?")
+family=input("how many family members do you have? :")
+friend=input("what is your besties name :")
+live = input("where do you live?")
+print()
+print('Hello',name,'welcome to your story')
+print()
+print( name, "Your family has", family, "and you live in",live, "your best friend is.",friend ,"and you like",like, "as you walk down the streets of", live, "you come across the person who you hate the most",dislike, " You run away from him and never see him again")
+print()
+print("THE END")
